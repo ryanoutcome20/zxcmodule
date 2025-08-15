@@ -5,6 +5,10 @@ Author: https://github.com/D3D9C
 New module, now works in Menu-state!
 https://github.com/D3D9C/sublime-x64
 
+## Note
+
+I (ryanoutcome20) am not the author. All credits and copyright goes towards [D3D9C](https://github.com/D3D9C).
+
 ## Code example
 ```
 require("zxcmodule")
@@ -89,9 +93,7 @@ GetCurrentCharge
 GetIsShifting  
 GetIsCharging  
 GetClipboardText  
-ExcludeFromCapture  
-Read  
-Write  
+ExcludeFromCapture   
 GetNetworkedVar  
 SetEntityFlags  
 UpdateAnimations  
